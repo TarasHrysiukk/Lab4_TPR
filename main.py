@@ -8,7 +8,7 @@ from colorama import Fore, Style, Back
 
 def open_file():
     try:
-        return open("laba4_30.txt")
+        return open("laba4_3.txt")
     except FileNotFoundError:
         print("Помилка - файл не існує")
         exit()

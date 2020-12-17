@@ -1,0 +1,6 @@
+Audi;Ford;Jaguar;Lamborghini;Lada
+Maximum speed :0.5;8;8;6;6;10
+Price:0.25;3;8;9;7;10
+Fuel consumption:0.25;2;8;8;7;4
+Quality of materials:0.5;2;4;6;4;4
+Service cost:0.2;8;9;5;4;5
